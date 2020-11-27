@@ -1,0 +1,10 @@
+name: bitpost
+description: Interface for the bitpost API
+version: 1.0.0
+homepage: https://bitpost.co
+repository: https://github.com/bitpostAPI/interface-dart
+docs: https://docs.bitpost.co
+environment:
+  sdk: ">=1.8.0 <4.0.0"
+dependencies:
+  http: ^0.12.0
